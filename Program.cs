@@ -11,6 +11,10 @@ namespace even_odd
         static void Main(string[] args)
         {
             Console.WriteLine("hello world...");
+            for(int i=1;i<=10;i++)
+            {
+                Console.WriteLine("***");
+            }
             Console.ReadKey();
         }
     }
