@@ -15,6 +15,7 @@ namespace even_odd
             {
                 Console.WriteLine("***");
             }
+            Console.WriteLine("done!!");
             Console.ReadKey();
         }
     }
